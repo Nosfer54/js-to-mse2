@@ -1,0 +1,11 @@
+{
+  "name": "js-to-mse2",
+  "version": "1.0.0",
+  "description": "Формирование сетов MtG для MSE2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nosfer54",
+  "license": "ISC"
+}
